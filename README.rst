@@ -12,15 +12,16 @@ the program makes use of the domain file of the same numerical value as in the P
 
 #steps to run program
 
-1)open command prompt
+1) open command prompt
  
 2) navigate to "./src
 
 3) type "python pyperplan.py -s gbf task4.pddl"
 
-4)after running the program a "xxxx.pddl.soln" file will be created with the same naming scheme as the problem file used to run the program
+4) After running the program a "xxxx.pddl.soln" file will be created with the same naming scheme as the problem file used to run the program
 
 #for the full original code written by authors please see  the following
+
 Contact
 =======
 
