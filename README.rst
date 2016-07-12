@@ -18,4 +18,29 @@ the program makes use of the domain file of the same numerical value as in the P
 
 3) type "python pyperplan.py -s gbf task4.pddl"
 
-4)after running the program a "xxxx.pddl.soln" file will be created with the same naming scheme as the problem file used to run #the program
+4)after running the program a "xxxx.pddl.soln" file will be created with the same naming scheme as the problem file used to run the program
+
+#for the full original code written by authors please see  the following
+Contact
+=======
+
+pyperplan is hosted on bitbucket: https://bitbucket.org/malte/pyperplan
+
+The original authors of pyperplan are, in alphabetical order:
+
+* Yusra Alkhazraji
+* Matthias Frorath
+* Markus GrÃ¼tzner
+* Thomas Liebetraut
+* Manuela Ortlieb
+* Jendrik Seipp
+* Tobias Springenberg
+* Philip Stahl
+* Jan WÃ¼lfing
+
+The instructors of the course in which pyperplan was created were
+Malte Helmert and Robert MattmÃ¼ller.
+
+If you want to get in touch with them, please contact Robert MattmÃ¼ller or
+Jendrik Seipp. Their email addresses can easily be found on the web.
+
